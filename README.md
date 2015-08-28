@@ -12,7 +12,8 @@ which appends the UMIs found in the raw sequences to the sequence identifier.
  
 ## Install
 
-run tthe following command from the sync_paired_end_reads directory:
+Run the following command from the sync_paired_end_reads directory
+
 `python setup.py install`
 
 This step will install the command line tool 'syncpairs' and add it to the PATH.
@@ -21,6 +22,6 @@ This step will install the command line tool 'syncpairs' and add it to the PATH.
 
 from the command line type:
 
-`syncpairs MY_READS1 MY_READS2 OUTPUT_READS1 OUTPUT_READS2`
+`syncpairs *reads1 reads2 output_reads1 output_reads2*`
  
 
