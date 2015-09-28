@@ -22,6 +22,6 @@ This step will install the command line tool 'syncpairs' and add it to the PATH.
 
 from the command line type:
 
-`syncpairs *reads1 reads2 output_reads1 output_reads2*`
+`syncpairs reads1 reads2 output_reads1 output_reads2`
  
 
