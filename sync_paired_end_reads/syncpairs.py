@@ -1,5 +1,4 @@
 __author__ = 'mickael'
-__author__ = 'mickael'
 
 from Bio import SeqIO
 from itertools import izip
