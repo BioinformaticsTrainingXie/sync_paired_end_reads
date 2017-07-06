@@ -1,4 +1,4 @@
-#sync_paired_end_reads
+# sync_paired_end_reads
 
 sync_paired_end_reads is a python tool to synchronise paired-end reads when reads1 or reads2 were modified.
 
